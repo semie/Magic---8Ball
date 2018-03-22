@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Responses>
+  //Traditional 8-Ball responses\\
+  <Traditional id="As I see it, yes."></Traditional>
+  <Traditional id="Ask again later."></Traditional>
+  <Traditional id="Better not tell you now."></Traditional>
+  <Traditional id="Cannot predict now"></Traditional>
+  <Traditional id="Don't count on it."></Traditional>
+  <Traditional id="It is certain."></Traditional>
+  <Traditional id="It is decidedly so."></Traditional>
+  <Traditional id="Most likely."></Traditional>
+  <Traditional id="My sources say no."></Traditional>
+  <Traditional id="Outlook good."></Traditional>
+  <Traditional id="Outlook not so good"></Traditional>
+  <Traditional id="Reply hazy try again."></Traditional>
+  <Traditional id="Signs point to yes."></Traditional>
+  <Traditional id="Very doubtful."></Traditional>
+  <Traditional id="Without a doubt."></Traditional>
+  <Traditional id="Absolutely"></Traditional>
+  <Traditional id="Cannot fortell now"></Traditional>
+  <Traditional id="Chances aren't good."></Traditional>
+  <Traditional id="Looks like yes."></Traditional>
+  <Traditional id="No doubt about it"></Traditional>
+  <Traditional id="Prospect good."></Traditional>
+  <Traditional id="So it shall be."></Traditional>
+  <Traditional id="The stars say no."></Traditional>
+  
+  //Aussie slang/specific responses\\
+  <Aussie id="No worries mate, she'll be right."></Aussie>
+  <Aussie id="Have a Captain Cook mate."></Aussie>
+  <Aussie id="Tell him his dreaming"></Aussie>
+  <Aussie id="Dogs breakfast."></Aussie>
+  <Aussie id="Bonza mate."></Aussie>
+  <Aussie id="Buckley's chance."></Aussie>
+  <Aussie id="Better than a kick in the ass."></Aussie>
+  <Aussie id="Put a sock in it."></Aussie>
+  <Aussie id="Six of one, half a dozen of the other."></Aussie>
+  <Aussie id="Have a go ya mug."></Aussie>
+  <Aussie id="Hit the forg and toad."></Aussie>
+  <Aussie id="Fair dinkum."></Aussie>
+  <Aussie id="She'll be right."></Aussie>
+  <Aussie id="Sweet as."></Aussie>
+  <Aussie id="Bloody oath"></Aussie>
+  <Aussie id="Have a crack"></Aussie>
+  <Aussie id="Can't be arsed"></Aussie>
+  <Aussie id="Deadset"></Aussie>
+  <Aussie id="Defo"></Aussie>
+  <Aussie id="Who dropped their guts?"></Aussie>
+  <Aussie id="Have a go, ya mug"></Aussie>
+  <Aussie id="Kenoath"></Aussie>
+  <Aussie id="Yeah, nah"></Aussie>
+  <Aussie id="No wuckin' furries"></Aussie>
+  <Aussie id="Ridgy-didge"></Aussie>
+  <Aussie id="You taking the piss?"></Aussie>
+  <Aussie id="Don't be a tosser."></Aussie>
+  <Aussie id="Pull your head in"></Aussie>
+  <Aussie id="Stop flaffing around"></Aussie>
+
+  
+  //Funny responses\\
+  
+  
+  
+  //Sarcastic and Offensive responses\\
+  <Sarcastic id="So sorry, I wasn’t listening. Can you repeat that?"></Sarcastic>
+  <Sarcastic id="You don’t really expect me to answer that, do you?"></Sarcastic>
+  <Sarcastic id="Well, I think we’ve reached the end of this conversation."></Sarcastic>
+  <Sarcastic id="Thank you. We’re all refreshed and challenged by your unique point of view."></Sarcastic>
+  <Sarcastic id="My apologies. I don’t speak English."></Sarcastic>
+  <Sarcastic id="I don’t really know how to answer that."></Sarcastic>
+  <Sarcastic id="I hope you realize everyone's just putting up with you."></Sarcastic>
+  <Sarcastic id="Even your friends don't really like you."></Sarcastic>
+  <Sarcastic id="You couldn't pour piss out of a boot if the directions were on the bottom."></Sarcastic>
+  <Sarcastic id="I don't know what your problem is, but I'm sure it's difficult to pronounce."></Sarcastic>
+  <Sarcastic id="Your birth certificate is an apology letter from the condom factory. "></Sarcastic>
+  <Sarcastic id="This is why everyone talks behind your back."></Sarcastic>
+  <Sarcastic id="Somewhere out there is a tree, tirelessly producing oxygen so you can breathe. I think you owe it an apology."></Sarcastic>
+  <Sarcastic id="Is your ass jealous of the amount of shit that just came out of your mouth?"></Sarcastic>
+  <Sarcastic id="Before I met you, I was pro life."></Sarcastic>
+  <Sarcastic id="You have the intelligence of a stillborn."></Sarcastic>
+  <Sarcastic id="If you want my comeback go look in your mother's mouth."></Sarcastic>
+  <Sarcastic id="A douche of your magnitude could cleanse the vagina of a whale."></Sarcastic>
+  <Sarcastic id="You are a walking advertisement for the benefits of birth control."></Sarcastic>
+  <Sarcastic id="If you were any more inbred, you'd be a sandwich."></Sarcastic>
+  <Sarcastic id="I'd like to see things from your point of view but I can't seem to get my head that far up my ass."></Sarcastic>
+  <Sarcastic id="Alright, give me your phone number and Ill call you when I give a shit."></Sarcastic>
+  <Sarcastic id="Is your head up your ass for the warmth?"></Sarcastic>
+
+
+
+
+
+
+  //Simpson responses\\
+
+
+
+  //Seinfeld responses\\
+
+
+</Responses>

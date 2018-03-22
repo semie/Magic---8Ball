@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Responses>
+  <Traditional id="response01"></Traditional>
+  <Traditional id="response02"></Traditional>
+  <Traditional id="response03"></Traditional>
+  <Traditional id="response04"></Traditional>
+  <Traditional id="response05"></Traditional>
+
+  <Aussie id="response01"></Aussie>
+  <Aussie id="response02"></Aussie>
+  <Aussie id="response03"></Aussie>
+  <Aussie id="response04"></Aussie>
+  <Aussie id="response05"></Aussie>
+</Responses>
