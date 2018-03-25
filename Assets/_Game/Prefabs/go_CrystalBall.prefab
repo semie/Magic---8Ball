@@ -9,75 +9,75 @@ Prefab:
     m_Modifications: []
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
-  m_RootGameObject: {fileID: 1859694791297748}
+  m_RootGameObject: {fileID: 1917930480073030}
   m_IsPrefabParent: 1
---- !u!1 &1166427381340860
+--- !u!1 &1382268676690596
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 5
   m_Component:
-  - component: {fileID: 4355672078196706}
-  - component: {fileID: 33708489505558292}
-  - component: {fileID: 23426081951984882}
+  - component: {fileID: 4379115522637078}
+  - component: {fileID: 33636101361675788}
+  - component: {fileID: 23675780685012384}
   m_Layer: 0
-  m_Name: 8Ball
+  m_Name: CBall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!1 &1859694791297748
+--- !u!1 &1917930480073030
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 5
   m_Component:
-  - component: {fileID: 4175213094088688}
-  - component: {fileID: 114790915084259986}
-  - component: {fileID: 135351856535329518}
+  - component: {fileID: 4292864303087968}
+  - component: {fileID: 114876042659893724}
+  - component: {fileID: 135544312389567186}
   m_Layer: 0
-  m_Name: go_8-ball
+  m_Name: go_CrystalBall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4175213094088688
+--- !u!4 &4292864303087968
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1859694791297748}
+  m_GameObject: {fileID: 1917930480073030}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 1.57, z: 0}
+  m_LocalScale: {x: 3, y: 3, z: 3}
   m_Children:
-  - {fileID: 4355672078196706}
+  - {fileID: 4379115522637078}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!4 &4355672078196706
+--- !u!4 &4379115522637078
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1166427381340860}
+  m_GameObject: {fileID: 1382268676690596}
   m_LocalRotation: {x: -0.18301266, y: -0.6830127, z: -0.18301266, w: 0.6830127}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.8, y: 0.8, z: 0.8}
   m_Children: []
-  m_Father: {fileID: 4175213094088688}
+  m_Father: {fileID: 4292864303087968}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: -30.000002, y: -90, z: 0}
---- !u!23 &23426081951984882
+--- !u!23 &23675780685012384
 MeshRenderer:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1166427381340860}
+  m_GameObject: {fileID: 1382268676690596}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -85,7 +85,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: d3689519435fc6a46adcbb270e5c52da, type: 2}
+  - {fileID: 2100000, guid: 778afcc65f6ef324f89aac4c505622f3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -104,19 +104,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!33 &33708489505558292
+--- !u!33 &33636101361675788
 MeshFilter:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1166427381340860}
+  m_GameObject: {fileID: 1382268676690596}
   m_Mesh: {fileID: 4300000, guid: 985c800751be97b49bddef4be57b387c, type: 3}
---- !u!114 &114790915084259986
+--- !u!114 &114876042659893724
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1859694791297748}
+  m_GameObject: {fileID: 1917930480073030}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1384774831, guid: e743331561ef77147ae48cda9bcb8209, type: 3}
@@ -2134,7 +2134,7 @@ MonoBehaviour:
         tooltip: 
         showInInspector: 1
         networkSync: 0
-        value: {x: 1.25, y: 1.25, z: 1.25}
+        value: {x: 5, y: 5, z: 5}
       - useVariable: 1
         name: Start Rotation
         tooltip: Initial start rotation of 8ball.
@@ -2146,7 +2146,7 @@ MonoBehaviour:
         tooltip: Initial start scale of 8ball.
         showInInspector: 0
         networkSync: 0
-        value: {x: 1, y: 1, z: 1}
+        value: {x: 3, y: 3, z: 3}
       colorVariables: []
       rectVariables: []
       quaternionVariables: []
@@ -2168,7 +2168,7 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 0
+    preprocessed: 1
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
@@ -2202,12 +2202,12 @@ MonoBehaviour:
     handleAnimatorIK: 0
   fsmTemplate: {fileID: 0}
   eventHandlerComponentsAdded: 0
---- !u!135 &135351856535329518
+--- !u!135 &135544312389567186
 SphereCollider:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1859694791297748}
+  m_GameObject: {fileID: 1917930480073030}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1

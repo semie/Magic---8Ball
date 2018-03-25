@@ -745,7 +745,7 @@ MonoBehaviour:
     - fsmEvent:
         name: Get Random
         isSystemEvent: 0
-        isGlobal: 0
+        isGlobal: 1
       toState: Grab a random response& build used array
       linkStyle: 0
       linkConstraint: 0
